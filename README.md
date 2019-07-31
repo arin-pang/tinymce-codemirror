@@ -205,6 +205,7 @@ Contributors
 ------------
 
 Arjan Haverkamp <arjan@avoid.org> - original author
+
 Christiaan Baartse - https://github.com/christiaan
 
 Contributors details: https://gitlab.com/tinymce-plugins/tinymce-codemirror/-/graphs/master
