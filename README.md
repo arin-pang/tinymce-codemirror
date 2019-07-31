@@ -35,7 +35,7 @@ Installation
 ------------
 
 1. Download and install TinyMCE 4 or TinyMCE 5 (>= 5.0.4) and make sure it runs correctly with default settings.
-2. Download this repository found at https://github.com/christiaan/tinymce-codemirror
+2. Download this repository found at https://gitlab.com/tinymce-plugins/tinymce-codemirror
 3. Place the directory `plugins/codemirror` in the `tinymce/plugins` directory.
 4. Download CodeMirror (version 4 or later) from http://codemirror.net/codemirror-latest.zip.
 5. Unpack codemirror-latest.zip inside the plugins/codemirror folder that was
@@ -165,6 +165,9 @@ the `plugins/codemirror/plugin.min.js` file.
 Changelog
 ---------
 
+2019-07-31
+- MOV: moved repo to Gitlab
+
 Version 1.5.1 - 2017-01-20
 - FIX: "main" path for codemirror plugin
 - IMP: add codemirror as submodule
@@ -202,5 +205,6 @@ Contributors
 ------------
 
 Arjan Haverkamp <arjan@avoid.org> - original author
+Christiaan Baartse - https://github.com/christiaan
 
-Contributors details, check on GitHub: https://github.com/christiaan/tinymce-codemirror/graphs/contributors
+Contributors details: https://gitlab.com/tinymce-plugins/tinymce-codemirror/-/graphs/master
