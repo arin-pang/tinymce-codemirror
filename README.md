@@ -37,7 +37,7 @@ Installation
 1. Download and install TinyMCE 4 or TinyMCE 5 (>= 5.0.4) and make sure it runs correctly with default settings.
 2. Download this repository found at https://gitlab.com/tinymce-plugins/tinymce-codemirror
 3. Place the directory `plugins/codemirror` in the `tinymce/plugins` directory.
-4. Download CodeMirror (version 4 or later) from http://codemirror.net/codemirror-latest.zip.
+4. Download CodeMirror (version 4 or later) from http://codemirror.net/codemirror.zip.
 5. Unpack codemirror-latest.zip inside the plugins/codemirror folder that was
    just created. A folder named codemirror-4.8 (or similar) will be created.
 6. Activate the codemirror plugin in TinyMCE:
