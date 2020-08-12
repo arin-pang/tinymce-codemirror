@@ -165,6 +165,8 @@ the `plugins/codemirror/plugin.min.js` file.
 Changelog
 ---------
 
+see Tags https://gitlab.com/tinymce-plugins/tinymce-codemirror/-/tags
+
 2019-07-31
 - MOV: moved repo to Gitlab
 
