@@ -77,6 +77,7 @@ tinymce.PluginManager.add('codemirror', function(editor, url) {
                 if (actionData.name === 'codemirrorOk') {
                     var doc = document.querySelectorAll('.tox-dialog__body-iframe iframe')[0]
                     doc.contentWindow.submit()
+                    editor.undoManager.add()
                     win.close()
                 }
             }
