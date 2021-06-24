@@ -1,3 +1,5 @@
+**This repository is forked from https://gitlab.com/tinymce-plugins/tinymce-codemirror
+
 CodeMirror for TinyMCE5 and 4
 =============================
 
